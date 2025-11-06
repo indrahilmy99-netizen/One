@@ -1,0 +1,5 @@
+{
+  "name": "AI Storyboard Generator",
+  "description": "Generate a multi-panel storyboard from a single story idea, with all scenes and images automatically created for any theme.",
+  "requestFramePermissions": []
+}
